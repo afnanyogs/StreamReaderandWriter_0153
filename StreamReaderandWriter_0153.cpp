@@ -3,4 +3,10 @@
 #include <string>
 using namespace std;
 
-int main() {}
+int main() {
+
+	//untuk menyimpan data berbentuk string
+	string baris;
+
+	
+}
